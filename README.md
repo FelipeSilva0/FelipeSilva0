@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Silva 👋
 
 - 🔭 Atualmente trabalho com Desenvolvimento Web
-- 🌱 Engenharia de Computação 5/10
+- 🌱 Engenharia de Computação 6/10
 
 <div align="center">
   <a href="https://github.com/FelipeSilva0">
