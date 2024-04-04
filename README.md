@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Silva 👋
 
-- 🔭 Atualmente trabalho como Analista Programador Full Stack Jr na F360 com ASP.NET
-- 🌱 Engenharia de Computação 7/10
+- 🔭 Atualmente trabalho como Analista Programador Full Stack PL
+- 🌱 Engenharia de Computação 9/10
 
 <div align="center">
   <a href="https://github.com/FelipeSilva0">
