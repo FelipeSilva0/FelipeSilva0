@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Felipe Silva 👋
 
 - 🔭 Atualmente trabalho como Analista Programador Full Stack PL
-- 🌱 Engenharia de Computação 9/10
+- 🌱 Formado em Engenharia de Computação 
 
 <div align="center">
   <a href="https://github.com/FelipeSilva0">
